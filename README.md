@@ -40,8 +40,7 @@ cp .env.example .env  # anahtarları ve SMTP bilgilerini doldurun
 
 # 4) Geliştirme sunucusu
 npm run dev
-# veya
-# python app.py
+
 
 🔐 .env Örneği
 # LLM
