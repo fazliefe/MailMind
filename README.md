@@ -30,10 +30,10 @@ git clone <repo-url>
 cd mailmind
 
 # 2) Bağımlılıklar
-# (Örnek: Node.js)
+ (Örnek: Node.js)
 npm install
-# (Alternatif: Python)
-# pip install -r requirements.txt
+(Alternatif: Python)
+ pip install -r requirements.txt
 
 # 3) Ortam değişkenleri
 cp .env.example .env  # anahtarları ve SMTP bilgilerini doldurun
